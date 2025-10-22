@@ -264,7 +264,7 @@ export default function SpreadsheetPage() {
     if (checkWinCondition(allPositions)) {
       // Win! Redirect to success page
       setTimeout(() => {
-        window.location.href = "/success"
+        window.location.href = "/2025-real-time-sheet/success"
       }, 500)
     }
   }, [selectedCells, collaboratorPositions])
