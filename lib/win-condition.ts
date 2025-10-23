@@ -17,7 +17,7 @@ const TARGET_POSITIONS = {
   user: { sheet: 0, row: 9, col: 5 },
   collaboratorA: { sheet: 1, row: 9, col: 4 },
   collaboratorB: { sheet: 2, row: 9, col: 0 },
-  collaboratorC: { sheet: 3, row: 3, col: 0 },
+  collaboratorC: { sheet: 3, row: 3, col: 1 },
   collaboratorD: { sheet: 4, row: 4, col: 6 },
 }
 
