@@ -63,7 +63,7 @@ export function SpreadsheetHeader() {
               </button>
             </div>
             <div className="text-sm text-foreground whitespace-pre-line leading-relaxed">
-              这是一个简单的在线表格编辑器，麻烦各位朋友尽管完成生日聚会的统筹工作{"\n"}
+              这是一个简单的在线表格编辑器，麻烦各位朋友尽快完成生日聚会的准备工作{"\n"}
               -------------------{"\n"}
               工作中的一些注意事项：{"\n"}
               1. 本表格仅供本次生日聚会使用，请勿用于其他用途。{"\n"}
